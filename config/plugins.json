@@ -1,0 +1,12 @@
+{
+    "plugins": {
+        "archPackagesSearch": true,
+        "sendTest": true,
+        "netEaseSend": true
+    },
+    "events": {
+        "sendToConsole": true,
+        "petCommand": true,
+        "getHelp": true
+    }
+}

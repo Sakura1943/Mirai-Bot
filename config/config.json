@@ -1,0 +1,9 @@
+{
+  "bot": {
+    "host": "http://localhost:port",
+    "verifyKey": "xxxxxx",
+    "qq": 1234567,
+    "enableWebsocket": false,
+    "wsOnly": false
+  }
+}
