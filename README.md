@@ -23,9 +23,9 @@ yarn run serve
 ---
 
 ## 2. Configuration
-> Prerequisite:
-> node > 16
-> npm > 8 || yarn > 1.22
+> Prerequisite: <br>
+> node > 16 <br>
+> npm > 8 || yarn > 1.22 <br>
 > mirai-api-http(is login)
 ### 1) `config/config.json`
 #### -> The basic configuration with this server.
