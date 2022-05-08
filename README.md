@@ -79,7 +79,9 @@ yarn run serve
         "port": 6378, // redis server port
         "password": "1234567890" // redis user password
     },
-    "enable": false // enable redis to ban user?
+    "enable": false // enable redis to ban user?/ // default: false, if you want to turn on chat log restriction. please install redis-cell.
+    // redis-cell website https://github.com/brandur/redis-cell
+    // And make a password with your redis.
 }
 ```
 ## 3. Open source protocol.
